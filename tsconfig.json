@@ -6,7 +6,10 @@
         "sourceMap": true,
         "strict": true,
         "target": "es2015",
-        "esModuleInterop": false
+        "esModuleInterop": true,
+        "declaration": true,
+        "allowJs": true,
+        "checkJs": true
     },
     "include": [
         "src"
