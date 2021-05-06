@@ -10,3 +10,4 @@ let f2 = [1, false, 2, 3]
 const g = [3]
 let g2 = [3]
 let h = null
+a += 1
